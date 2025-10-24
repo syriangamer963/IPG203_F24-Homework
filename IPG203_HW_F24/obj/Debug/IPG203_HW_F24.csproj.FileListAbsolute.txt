@@ -1,0 +1,23 @@
+C:\Users\SAMSUNG\Documents\Visual Studio 2022\projact\IPG203_HW_F24\IPG203_HW_F24\obj\Debug\IPG203_HW_F24.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG\Documents\Visual Studio 2022\projact\IPG203_HW_F24\IPG203_HW_F24\obj\Debug\IPG203_HW_F24.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Documents\Visual Studio 2022\projact\IPG203_HW_F24\IPG203_HW_F24\bin\Debug\IPG203_HW_F24.exe.config
+C:\Users\SAMSUNG\Documents\Visual Studio 2022\projact\IPG203_HW_F24\IPG203_HW_F24\bin\Debug\IPG203_HW_F24.exe
+C:\Users\SAMSUNG\Documents\Visual Studio 2022\projact\IPG203_HW_F24\IPG203_HW_F24\bin\Debug\IPG203_HW_F24.pdb
+C:\Users\SAMSUNG\Documents\Visual Studio 2022\projact\IPG203_HW_F24\IPG203_HW_F24\obj\Debug\IPG203_HW_F24.exe
+C:\Users\SAMSUNG\Documents\Visual Studio 2022\projact\IPG203_HW_F24\IPG203_HW_F24\obj\Debug\IPG203_HW_F24.pdb
+C:\Users\SAMSUNG\Documents\Visual Studio 2022\projact\IPG203_HW_F24\IPG203_HW_F24\obj\Debug\IPG203_HW_F24.exe.config
+C:\Users\SAMSUNG\Desktop\الوظايف\الملفات\ملفات IPG203\02\IPG203_HW_F24\IPG203_HW_F24\bin\Debug\IPG203_HW_F24.exe.config
+C:\Users\SAMSUNG\Desktop\الوظايف\الملفات\ملفات IPG203\02\IPG203_HW_F24\IPG203_HW_F24\bin\Debug\IPG203_HW_F24.exe
+C:\Users\SAMSUNG\Desktop\الوظايف\الملفات\ملفات IPG203\02\IPG203_HW_F24\IPG203_HW_F24\bin\Debug\IPG203_HW_F24.pdb
+C:\Users\SAMSUNG\Desktop\الوظايف\الملفات\ملفات IPG203\02\IPG203_HW_F24\IPG203_HW_F24\obj\Debug\IPG203_HW_F24.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\الوظايف\الملفات\ملفات IPG203\02\IPG203_HW_F24\IPG203_HW_F24\obj\Debug\IPG203_HW_F24.exe.config
+C:\Users\SAMSUNG\Desktop\الوظايف\الملفات\ملفات IPG203\02\IPG203_HW_F24\IPG203_HW_F24\obj\Debug\IPG203_HW_F24.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\الوظايف\الملفات\ملفات IPG203\02\IPG203_HW_F24\IPG203_HW_F24\obj\Debug\IPG203_HW_F24.exe
+C:\Users\SAMSUNG\Desktop\الوظايف\الملفات\ملفات IPG203\02\IPG203_HW_F24\IPG203_HW_F24\obj\Debug\IPG203_HW_F24.pdb
+C:\Users\jadsa\Desktop\123123123\TIC_IPG203_F24_C7_Nagham_246130_ayat_196682_Sedra_140232_jad_252141\IPG203_HW_F24\bin\Debug\IPG203_HW_F24.exe.config
+C:\Users\jadsa\Desktop\123123123\TIC_IPG203_F24_C7_Nagham_246130_ayat_196682_Sedra_140232_jad_252141\IPG203_HW_F24\bin\Debug\IPG203_HW_F24.exe
+C:\Users\jadsa\Desktop\123123123\TIC_IPG203_F24_C7_Nagham_246130_ayat_196682_Sedra_140232_jad_252141\IPG203_HW_F24\bin\Debug\IPG203_HW_F24.pdb
+C:\Users\jadsa\Desktop\123123123\TIC_IPG203_F24_C7_Nagham_246130_ayat_196682_Sedra_140232_jad_252141\IPG203_HW_F24\obj\Debug\IPG203_HW_F24.csproj.AssemblyReference.cache
+C:\Users\jadsa\Desktop\123123123\TIC_IPG203_F24_C7_Nagham_246130_ayat_196682_Sedra_140232_jad_252141\IPG203_HW_F24\obj\Debug\IPG203_HW_F24.csproj.CoreCompileInputs.cache
+C:\Users\jadsa\Desktop\123123123\TIC_IPG203_F24_C7_Nagham_246130_ayat_196682_Sedra_140232_jad_252141\IPG203_HW_F24\obj\Debug\IPG203_HW_F24.exe
+C:\Users\jadsa\Desktop\123123123\TIC_IPG203_F24_C7_Nagham_246130_ayat_196682_Sedra_140232_jad_252141\IPG203_HW_F24\obj\Debug\IPG203_HW_F24.pdb
